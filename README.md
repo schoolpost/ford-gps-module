@@ -43,7 +43,7 @@ The module is interconnected to the rest of the vehicle using CANBUS over the MS
 
 The module will automatically go to sleep if there is no CAN activity, so a periodic ( 1 sec ) ping or message will keep the module awake. 
 
-You can power the module with power source ranging from ( ~5-16V ).
+You can power the module with power source ranging from ( ~5-15V ).
 
 # Example
 Using your microcontroller of choice ( Arduino, ESP32, etc...) and a CAN Transciever it is very easy to read the GPS Data that is sent over CAN Messages. <br>
