@@ -23,12 +23,9 @@ Common markings I've seen for this module are:
 
 # Teardown
 
-![](/docs/IMG_0044.png)
-![](/docs/IMG_0045.png)
-![](/docs/IMG_0049.png)
-![](/docs/IMG_0053.png)
-![](/docs/IMG_0054.png)
-![](/docs/IMG_0055.png)
+![](docs/IMG_0044.jpg)
+![](docs/IMG_0055.jpg)
+See more images in the [docs](docs/) folder.
 
 <br>
 
